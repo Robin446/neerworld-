@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background: lightgrey;
+}
+
+.no_one {
+    font-family: 'Palette Mosaic', cursive;
+    position: fixed;
+    background: #6ef0c0;
+    width: 100%;
+    margin-top: 0px;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.no_two {
+    display: inline;
+    color: firebrick;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    font-family: 'Palette Mosaic', cursive;
+}
+#neerworld{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+#Mycourocel{
+    background-color: navy;
+}
+#Mycourocel img{
+    height: 500px;
+    margin-top: 35px;
+}
+.carousel-inner h1{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.line{
+    height: 6px;
+    background-color: turquoise;
+    width: 200px ;
+    margin: 8px auto;}
+#intro{
+    font-weight: bolder;
+}
